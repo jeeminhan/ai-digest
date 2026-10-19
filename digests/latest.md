@@ -1,4 +1,4 @@
-# AI Weekly Digest — October 12, 2026
+# AI Weekly Digest — October 19, 2026
 
 > Auto-generated weekly roundup of trending AI repositories, models, and research.
 
@@ -8,47 +8,47 @@
 
 ### Trending AI/ML Repositories (past week)
 
-- **[f/prompts.chat](https://github.com/f/prompts.chat)** - 172,718 stars (HTML) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos
-- **[huggingface/datasets](https://github.com/huggingface/datasets)** - 22,051 stars (Python) — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** - 9,608 stars (Python) — Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal mode
-- **[alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)** - 4,875 stars (Python) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
-- **[ombharatiya/ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide)** - 3,549 stars (Unknown) — AI system design guide for engineers building production AI systems and evals.
-- **[spiceai/spiceai](https://github.com/spiceai/spiceai)** - 3,100 stars (Rust) — Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM
-- **[patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb)** - 2,001 stars (Ruby) — Build LLM-powered applications in Ruby
-- **[AgileRL/AgileRL](https://github.com/AgileRL/AgileRL)** - 957 stars (Python) — Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools, with 10x faster training throu
-- **[curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp)** - 947 stars (Jupyter Notebook) — Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tunin
-- **[The-FinAI/PIXIU](https://github.com/The-FinAI/PIXIU)** - 893 stars (Jupyter Notebook) — This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), in
-- **[hanlulong/awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists)** - 667 stars (Unknown) — A curated list of AI tools, agent skills, libraries, and resources for economics research, teaching, and policy analysis
-- **[TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot)** - 621 stars (Python) — TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-v
-- **[viveknaskar/everything-ai-ml](https://github.com/viveknaskar/everything-ai-ml)** - 480 stars (TypeScript) — A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOp
-- **[amitshekhariitbhu/machine-learning-interview-questions](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)** - 433 stars (Markdown) — Your Cheat Sheet for Machine Learning Interview – Questions and Answers.
-- **[YuvrajSingh-mist/Paper-Replications](https://github.com/YuvrajSingh-mist/Paper-Replications)** - 428 stars (Jupyter Notebook) — From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA
+- **[f/prompts.chat](https://github.com/f/prompts.chat)** - 173,547 stars (HTML) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-hos
+- **[huggingface/datasets](https://github.com/huggingface/datasets)** - 22,066 stars (Python) — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
+- **[xorbitsai/inference](https://github.com/xorbitsai/inference)** - 9,616 stars (Python) — Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal mode
+- **[alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)** - 4,909 stars (Python) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
+- **[spiceai/spiceai](https://github.com/spiceai/spiceai)** - 3,102 stars (Rust) — Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM
+- **[patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb)** - 2,004 stars (Ruby) — Build LLM-powered applications in Ruby
+- **[AgileRL/AgileRL](https://github.com/AgileRL/AgileRL)** - 959 stars (Python) — The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionar
+- **[TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot)** - 624 stars (Python) — TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-v
+- **[viveknaskar/everything-ai-ml](https://github.com/viveknaskar/everything-ai-ml)** - 487 stars (TypeScript) — A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOp
+- **[amitshekhariitbhu/machine-learning-interview-questions](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)** - 439 stars (Markdown) — Your Cheat Sheet for Machine Learning Interview – Questions and Answers.
+- **[yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience)** - 303 stars (Jupyter Notebook) — Open-sourced course notes for Artificial Intelligence and Data Science related topics, prepared in LaTeX
+- **[Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)** - 283 stars (Python) — A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-
+- **[dualverse-ai/station](https://github.com/dualverse-ai/station)** - 198 stars (Python) — The Station is an open-world multi-agent environment where AI agents pursue autonomous scientific discovery and build a 
+- **[PavanMudigonda/zero-to-ai](https://github.com/PavanMudigonda/zero-to-ai)** - 154 stars (Jupyter Notebook) — Free AI/ML course with 950+ Jupyter notebooks — Python, deep learning, LLMs, RAG, agents, prompt engineering, fine-tunin
+- **[Drix10/ai-resources](https://github.com/Drix10/ai-resources)** - 120 stars (Unknown) — Daily-updated, AI-curated knowledge base: LLMs, AI agents, machine learning, developer tools, cybersecurity, robotics, c
 
 ### New AI Projects (past month)
 
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** - 3,087 stars (JavaScript) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 
-- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** - 1,908 stars (Python) — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
-- **[amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** - 658 stars (Markdown) — AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.
-- **[strands-labs/strands-decider](https://github.com/strands-labs/strands-decider)** - 591 stars (Python) — A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster
-- **[amitshekhariitbhu/ai-engineering-course](https://github.com/amitshekhariitbhu/ai-engineering-course)** - 526 stars (Markdown) — AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Le
-- **[strands-agents/box](https://github.com/strands-agents/box)** - 365 stars (Rust) — Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS 
-- **[Akun-python/autumn-recruitment](https://github.com/Akun-python/autumn-recruitment)** - 239 stars (Jupyter Notebook) — Autumn-Recruit Algo Notes(秋招算法学习仓库)，面向大模型时代的算法、工程与AI学习共建仓库。从数学基础、数据结构，到机器学习、深度学习、LLM、Agent、AI-Infra、语音与数据科学，通过「理解→推导→手写 
-- **[Pal-AI-Lab/Cortico](https://github.com/Pal-AI-Lab/Cortico)** - 208 stars (TypeScript) — Event-stream AI Agent framework for building your persona bot 🍊
-- **[255308153/CtxGuard](https://github.com/255308153/CtxGuard)** - 203 stars (Python) — 面向 AI Agent 的高并发、低延迟上下文治理与 Prompt Cache 守护网关 (Tree-sitter AST / Tool Delta / 50%~80% Token 削减)
-- **[kostja94/bricks](https://github.com/kostja94/bricks)** - 199 stars (JavaScript) — Component layer for AI agents: implementation-aware contracts for building project-native interface components.
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** - 3,847 stars (JavaScript) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 
+- **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** - 2,260 stars (Python) — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
+- **[trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)** - 1,309 stars (Go) — ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军
+- **[LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon)** - 901 stars (Python) — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Cl
+- **[amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design)** - 724 stars (Markdown) — AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.
+- **[strands-labs/strands-decider](https://github.com/strands-labs/strands-decider)** - 672 stars (Python) — A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster
+- **[thesysdev/open-intelligent-ui](https://github.com/thesysdev/open-intelligent-ui)** - 604 stars (TypeScript) — An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and wo
+- **[amitshekhariitbhu/ai-engineering-course](https://github.com/amitshekhariitbhu/ai-engineering-course)** - 540 stars (Markdown) — AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Le
+- **[strands-agents/box](https://github.com/strands-agents/box)** - 441 stars (Rust) — Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS 
+- **[hanzohanzhe/Grandet](https://github.com/hanzohanzhe/Grandet)** - 438 stars (JavaScript) — Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed
 
 ### Trending Agent Frameworks
 
-- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** - 59,612 stars (Python) — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** - 48,971 stars (Python) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-
-- **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** - 41,779 stars (Python) — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can b
-- **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** - 27,959 stars (TypeScript) — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusab
-- **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** - 16,719 stars (HTML) — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing resea
-- **[livekit/agents](https://github.com/livekit/agents)** - 14,709 stars (Python) — A framework for building realtime voice AI agents 🤖🎙️📹 
-- **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** - 14,086 stars (Python) — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N
-- **[pestphp/pest](https://github.com/pestphp/pest)** - 11,734 stars (PHP) — The elegant testing framework for PHP developers and AI agents.
-- **[TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)** - 11,157 stars (Python) —  Open-source framework for conversational voice AI agents
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** - 10,767 stars (Python) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a
+- **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** - 59,876 stars (Python) — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** - 49,188 stars (Python) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-
+- **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** - 42,245 stars (Python) — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can b
+- **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** - 29,631 stars (TypeScript) — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusab
+- **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** - 16,803 stars (HTML) — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing resea
+- **[livekit/agents](https://github.com/livekit/agents)** - 14,841 stars (Python) — A framework for building realtime voice AI agents 🤖🎙️📹 
+- **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** - 14,205 stars (Python) — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .N
+- **[pestphp/pest](https://github.com/pestphp/pest)** - 11,740 stars (PHP) — The elegant testing framework for PHP developers and AI agents.
+- **[TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)** - 11,180 stars (Python) —  Open-source framework for conversational voice AI agents
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** - 10,900 stars (Python) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a
 
 ---
 
@@ -56,47 +56,47 @@
 
 ### Most Liked Models (recent)
 
-- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** — 115,763 downloads, 1,903 likes (feature-extraction)
-- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** — 46,070 downloads, 1,298 likes (text-generation)
-- **[abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)** — 2,188,658 downloads, 4,076 likes (text-to-image)
-- **[Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo)** — 6,787 downloads, 617 likes (text-to-image)
-- **[Cloudflare/clef](https://huggingface.co/Cloudflare/clef)** — 15,064 downloads, 2,082 likes (image-text-to-text)
-- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — 1,719,766 downloads, 7,443 likes (image-to-video)
-- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — 6,895,303 downloads, 17,563 likes (image-text-to-text)
-- **[ConwayResearch/Underdog-Saluki-27B-1.0](https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0)** — 242,329 downloads, 362 likes (text-generation)
-- **[canberkkkkkk/ema-lightning](https://huggingface.co/canberkkkkkk/ema-lightning)** — 20,310 downloads, 384 likes (text-to-speech)
-- **[LiquidAI/d1-3B](https://huggingface.co/LiquidAI/d1-3B)** — 11,866 downloads, 334 likes (image-text-to-text)
-- **[AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF](https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF)** — 161,715 downloads, 366 likes (text-to-image)
-- **[nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2](https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2)** — 75,302 downloads, 275 likes (image-text-to-text)
-- **[Venastine-Research/Xing4.0-29B-A4B-GGUF](https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF)** — 52,788 downloads, 704 likes (text-generation)
-- **[Aleph-Alpha/Kolibri-1](https://huggingface.co/Aleph-Alpha/Kolibri-1)** — 14,018 downloads, 909 likes (text-generation)
-- **[convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)** — 45,062 downloads, 5,529 likes (text-classification)
+- **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** — 17,924 downloads, 1,606 likes (image-text-to-text)
+- **[openbmb/MiniCPM-V-4.7-35B-A3B](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B)** — 76,410 downloads, 1,040 likes (image-text-to-text)
+- **[fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)** — 11,795 downloads, 745 likes (text-to-speech)
+- **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)** — 393,062 downloads, 907 likes (image-to-image)
+- **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)** — 167,750 downloads, 2,703 likes (feature-extraction)
+- **[jialinyyzz/humanizer](https://huggingface.co/jialinyyzz/humanizer)** — 109,937 downloads, 1,972 likes (text-generation)
+- **[meta-models/Muse-Spark-Open-816B-A42B](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)** — 2,109 downloads, 571 likes (image-text-to-text)
+- **[black-forest-labs/flux-3-image-klein](https://huggingface.co/black-forest-labs/flux-3-image-klein)** — 62,006 downloads, 521 likes (image-to-image)
+- **[LiquidAI/LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)** — 14,151 downloads, 487 likes (text-generation)
+- **[Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)** — 2,019,834 downloads, 8,454 likes (image-to-video)
+- **[abenzerps/Qwen-Image-2.1-Uncensored-Quantized](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized)** — 2,739,572 downloads, 4,617 likes (text-to-image)
+- **[OpenMOSS-Team/MOSS-Image-SFT](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)** — 3,336 downloads, 392 likes (text-to-image)
+- **[OpenMOSS-Team/MOSS-Image-Base](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base)** — 2,774 downloads, 353 likes (text-to-image)
+- **[openbmb/MiniCPM-V-4.7-1B](https://huggingface.co/openbmb/MiniCPM-V-4.7-1B)** — 33,388 downloads, 392 likes (image-text-to-text)
+- **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)** — 7,458,401 downloads, 17,992 likes (image-text-to-text)
 
 ### Most Downloaded Models
 
-- **[sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)** — 221,180,273 downloads, 6,283 likes (sentence-similarity)
-- **[cross-encoder/ms-marco-MiniLM-L6-v2](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)** — 79,499,559 downloads, 383 likes (text-ranking)
-- **[BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)** — 59,936,117 downloads, 632 likes (feature-extraction)
-- **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)** — 48,032,209 downloads, 1,448 likes (sentence-similarity)
-- **[google/electra-base-discriminator](https://huggingface.co/google/electra-base-discriminator)** — 45,343,308 downloads, 203 likes (unknown)
-- **[google-bert/bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)** — 34,829,493 downloads, 3,418 likes (fill-mask)
-- **[BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3)** — 32,815,892 downloads, 3,866 likes (sentence-similarity)
-- **[Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)** — 30,604,529 downloads, 1,789 likes (text-generation)
-- **[google-t5/t5-small](https://huggingface.co/google-t5/t5-small)** — 23,757,554 downloads, 670 likes (translation)
-- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** — 23,731,432 downloads, 2,239 likes (unknown)
+- **[sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)** — 207,019,154 downloads, 6,359 likes (sentence-similarity)
+- **[cross-encoder/ms-marco-MiniLM-L6-v2](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2)** — 76,053,700 downloads, 420 likes (text-ranking)
+- **[BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)** — 57,543,408 downloads, 645 likes (feature-extraction)
+- **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)** — 44,406,763 downloads, 1,480 likes (sentence-similarity)
+- **[google/electra-base-discriminator](https://huggingface.co/google/electra-base-discriminator)** — 41,852,016 downloads, 217 likes (unknown)
+- **[BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3)** — 31,504,439 downloads, 3,910 likes (sentence-similarity)
+- **[google-bert/bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)** — 30,160,565 downloads, 3,434 likes (fill-mask)
+- **[Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)** — 29,469,443 downloads, 1,833 likes (text-generation)
+- **[Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)** — 25,560,883 downloads, 2,337 likes (unknown)
+- **[google-t5/t5-small](https://huggingface.co/google-t5/t5-small)** — 24,390,832 downloads, 687 likes (translation)
 
 ### Trending AI Papers
 
-- **[BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion](https://huggingface.co/papers/2610.12307)** — 0 likes
-- **[Clinician use of language models diverges from how the models are evaluated](https://huggingface.co/papers/2610.11069)** — 0 likes
-- **[Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery](https://huggingface.co/papers/2610.10512)** — 0 likes
-- **[Few-Step Generation via Data-Space Iteration](https://huggingface.co/papers/2610.12102)** — 0 likes
-- **[GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images](https://huggingface.co/papers/2610.11215)** — 0 likes
-- **[Distributionally Robust Mixture-of-Experts Training](https://huggingface.co/papers/2610.07207)** — 0 likes
-- **[One Model to Loop Them All: Elastic Latent Recurrence for Language Models](https://huggingface.co/papers/2610.12582)** — 0 likes
-- **[The Life Cycle of a Massive Activation: Stochastic Birth, Weight-Decay-Driven Growth, and Competitive Consolidation](https://huggingface.co/papers/2610.00423)** — 0 likes
-- **[SAGE: Salient Factor Discovery and Generation with Visual Foundation Representations](https://huggingface.co/papers/2609.39635)** — 0 likes
-- **[Self-Preservation in Language Models](https://huggingface.co/papers/2610.12602)** — 0 likes
+- **[EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications](https://huggingface.co/papers/2610.16402)** — 0 likes
+- **[OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing](https://huggingface.co/papers/2610.22744)** — 0 likes
+- **[Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries](https://huggingface.co/papers/2610.22273)** — 0 likes
+- **[GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations](https://huggingface.co/papers/2610.22708)** — 0 likes
+- **[Relational Learning as World Modeling](https://huggingface.co/papers/2610.16763)** — 0 likes
+- **[What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics](https://huggingface.co/papers/2610.22697)** — 0 likes
+- **[ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models](https://huggingface.co/papers/2610.22306)** — 0 likes
+- **[AI-Driven Disaster Response and Displacement Monitoring](https://huggingface.co/papers/2610.21482)** — 0 likes
+- **[Xiaomi-Lens-0 Technical Report](https://huggingface.co/papers/2610.23279)** — 0 likes
+- **[MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing](https://huggingface.co/papers/2610.23751)** — 0 likes
 
 ---
 
@@ -113,4 +113,4 @@
 
 ---
 
-*Generated on 2026-10-12 by [ai-digest](https://github.com/jeeminhan/ai-digest)*
+*Generated on 2026-10-19 by [ai-digest](https://github.com/jeeminhan/ai-digest)*
